@@ -10,5 +10,6 @@ public class CollegeStudent extends Student {
 
     private  String degree;
 // we can edit this line
+// i made some changes
 
 }
