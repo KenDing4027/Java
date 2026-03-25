@@ -11,9 +11,6 @@ public class CollegeStudent extends Student {
     private  String degree;
 
     //test
-
-
-
-//this is a new line
+    
 
 }
