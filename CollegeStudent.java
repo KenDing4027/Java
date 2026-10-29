@@ -30,4 +30,7 @@ public class CollegeStudent extends Student {
                 "degree='" + degree + '\n' +
                 '}';
     }
+
+    // this is a test
+    
 }
